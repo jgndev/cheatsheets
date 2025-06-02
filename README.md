@@ -17,6 +17,7 @@ This repository contains practical cheatsheets covering essential tools for engi
 - **[Homebrew Package Manager](homebrew-cheatsheet.md)** - Essential guide to using Homebrew package management
 - **[SSH](ssh-cheatsheet.md)** - Essential guide to SSH connections, keys, and file transfer
 - **[Ansible](ansible-cheatsheet.md)** - Essential guide to automation and configuration management
+- **[Systemctl](systemctl-cheatsheet.md)** - Essential guide to systemd service management
 
 ### Cloud Platforms
 - **[Azure CLI](azure-cli-cheatsheet.md)** - Essential Azure CLI commands for Azure management
