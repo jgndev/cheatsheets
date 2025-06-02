@@ -16,6 +16,7 @@ This repository contains practical cheatsheets covering essential tools for engi
 - **[APT Package Manager](apt-cheatsheet.md)** - Essential guide to Ubuntu/Debian package management
 - **[Homebrew Package Manager](homebrew-cheatsheet.md)** - Essential guide to using Homebrew package management
 - **[SSH](ssh-cheatsheet.md)** - Essential guide to SSH connections, keys, and file transfer
+- **[Ansible](ansible-cheatsheet.md)** - Essential guide to automation and configuration management
 
 ### Cloud Platforms
 - **[Azure CLI](azure-cli-cheatsheet.md)** - Essential Azure CLI commands for Azure management
