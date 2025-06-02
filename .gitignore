@@ -1,0 +1,6 @@
+# Code editors
+.vscode/
+.idea/
+
+# OS Cruft
+.DS_Store/
