@@ -14,10 +14,6 @@ sudo apt update
 sudo apt upgrade
 ```
 
-- Upgrade installed packages to latest versions
-```bash
-sudo apt upgrade
-```
 - Upgrade with dependency additions/removals
 ```bash
 sudo apt full-upgrade
