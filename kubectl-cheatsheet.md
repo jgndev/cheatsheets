@@ -1,3 +1,15 @@
+---
+id: 3
+date: 2025-05-02T00:00:00Z
+title: Kubectl Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for the kubectl command
+slug: kubectl-cheatsheet
+tags:
+  - kubectl
+published: true
+---
+
 # Kubectl Cheatsheet
 
 ---

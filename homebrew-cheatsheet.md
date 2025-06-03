@@ -1,3 +1,15 @@
+---
+id: 4
+date: 2025-05-02T00:00:00Z
+title: Homebrew Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for the brew command
+slug: homebrew-cheatsheet
+tags:
+  - homebrew
+published: true
+---
+
 # Homebrew Cheatsheet
 
 Essential commands that should meet most of your needs as a [brew.sh](https://brew.sh) user.

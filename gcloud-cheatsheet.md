@@ -1,3 +1,16 @@
+---
+id: 6
+date: 2025-05-02T00:00:00Z
+title: Gcloud Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for the gcloud command
+slug: gcloud-cheatsheet
+tags:
+  - gcloud
+  - gcp
+published: true
+---
+
 # Google Cloud CLI (gcloud) Cheatsheet
 
 ---

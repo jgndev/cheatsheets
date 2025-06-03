@@ -1,3 +1,16 @@
+---
+id: 7
+date: 2025-05-02T00:00:00Z
+title: Azure PowerShell Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for Azure PowerShell
+slug: az-powershell-cheatsheet
+tags:
+  - azure
+  - powershell
+published: true
+---
+
 # Azure PowerShell Cheatsheet
 
 ---

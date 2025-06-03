@@ -1,3 +1,15 @@
+---
+id: 9
+date: 2025-05-02T00:00:00Z
+title: APT Package Manger Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for the APT Package Manager
+slug: apt-cheatsheet
+tags:
+  - apt
+published: true
+---
+
 # APT Package Manager Cheatsheet
 
 ---

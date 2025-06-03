@@ -1,3 +1,15 @@
+---
+id: 2
+date: 2025-05-02T00:00:00Z
+title: Systemctl Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for the systemctl command
+slug: systemctl-cheatsheet
+tags:
+  - systemctl
+published: true
+---
+
 # Systemctl Cheatsheet
 
 ---

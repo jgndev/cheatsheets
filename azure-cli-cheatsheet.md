@@ -1,3 +1,16 @@
+---
+id: 8
+date: 2025-05-02T00:00:00Z
+title: Azure CLI Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for the Azure CLI
+slug: az-cli-cheatsheet
+tags:
+  - azure
+  - cli
+published: true
+---
+
 # Azure CLI Cheatsheet
 
 ---

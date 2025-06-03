@@ -1,3 +1,15 @@
+---
+id: 1
+date: 2025-05-02T00:00:00Z
+title: SSH Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for the ssh command
+slug: ssh-cheatsheet
+tags:
+  - ssh
+published: true
+---
+
 # SSH Cheatsheet
 
 ---

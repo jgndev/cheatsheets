@@ -1,3 +1,17 @@
+---
+id: 11
+date: 2025-05-02T00:00:00Z
+title: AKS Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for AKS (Azure Kubernetes Service)
+slug: aks-cheatsheet
+tags:
+  - azure
+  - aks
+  - k8s
+published: true
+---
+
 # Azure Kubernetes Service (AKS) Cheatsheet
 
 ---
