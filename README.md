@@ -19,6 +19,9 @@ This repository contains practical cheatsheets covering essential tools for engi
 - **[Ansible](ansible-cheatsheet.md)** - Essential guide to automation and configuration management
 - **[Systemctl](systemctl-cheatsheet.md)** - Essential guide to systemd service management
 
+## Programming Languages
+- **[Go (Golang)](go-cheatsheet.md)** - Essential guide to Go development, modules, and patterns
+
 ### Cloud Platforms
 - **[Azure CLI](azure-cli-cheatsheet.md)** - Essential Azure CLI commands for Azure management
 - **[Azure PowerShell](azure-powershell-cheatsheet.md)** - Essential Azure PowerShell cmdlets for Azure management
