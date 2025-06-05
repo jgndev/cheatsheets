@@ -15,11 +15,10 @@ This repository contains practical cheatsheets covering essential tools for engi
 ### System Administration
 - **[APT Package Manager](apt-cheatsheet.md)** - Essential guide to Ubuntu/Debian package management
 - **[Homebrew Package Manager](homebrew-cheatsheet.md)** - Essential guide to using Homebrew package management
+- **[Git & GitHub CLI](git-cheatsheet.md)** - Essential guide to Git, GitHub CLI, and troubleshooting
 - **[SSH](ssh-cheatsheet.md)** - Essential guide to SSH connections, keys, and file transfer
 - **[Ansible](ansible-cheatsheet.md)** - Essential guide to automation and configuration management
 - **[Systemctl](systemctl-cheatsheet.md)** - Essential guide to systemd service management
-
-## Programming Languages
 - **[Go (Golang)](go-cheatsheet.md)** - Essential guide to Go development, modules, and patterns
 
 ### Cloud Platforms
@@ -41,7 +40,6 @@ This repository contains practical cheatsheets covering essential tools for engi
    cd cheatsheets
    ```
 3. **Bookmark favorites**: Save links to cheatsheets you use most frequently
-
 
 ## 🤝 Contributing
 
