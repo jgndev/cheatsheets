@@ -20,6 +20,7 @@ This repository contains practical cheatsheets covering essential tools for engi
 - **[Ansible](ansible-cheatsheet.md)** - Essential guide to automation and configuration management
 - **[Systemctl](systemctl-cheatsheet.md)** - Essential guide to systemd service management
 - **[Go (Golang)](go-cheatsheet.md)** - Essential guide to Go development, modules, and patterns
+- **[Vim & Neovim](vim-cheatsheet.md)** - Essential guide to Vim and Neovim installation, navigation, and usage
 
 ### Cloud Platforms
 - **[Azure CLI](azure-cli-cheatsheet.md)** - Essential Azure CLI commands for Azure management
