@@ -1,3 +1,16 @@
+---
+id: 13
+date: 2025-05-02T00:00:00Z
+title: Vim Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for Vim and Neovim
+slug: vim-cheatsheet
+tags:
+  - vim
+  - neovim
+published: true
+---
+
 # Vim & Neovim Cheatsheet
 
 ## Installation
