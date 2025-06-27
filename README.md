@@ -22,6 +22,10 @@ This repository contains practical cheatsheets covering essential tools for engi
 - **[Go (Golang)](go-cheatsheet.md)** - Essential guide to Go development, modules, and patterns
 - **[Vim & Neovim](vim-cheatsheet.md)** - Essential guide to Vim and Neovim installation, navigation, and usage
 
+### Development Tools
+- **[SQL](sql-cheatsheet.md)** - Essential guide to SQL queries, commands, and database operations
+- **[Postman](postman-cheatsheet.md)** - Essential guide to API testing and development with Postman
+
 ### Cloud Platforms
 - **[Azure CLI](azure-cli-cheatsheet.md)** - Essential Azure CLI commands for Azure management
 - **[Azure PowerShell](azure-powershell-cheatsheet.md)** - Essential Azure PowerShell cmdlets for Azure management
