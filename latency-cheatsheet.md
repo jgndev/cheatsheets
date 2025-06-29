@@ -17,7 +17,7 @@ published: true
 
 ---
 
-## CPU & Memory Latencies
+## Latency Comparisions
 
 | Operation | Latency | Notes |
 |-----------|---------|-------|
