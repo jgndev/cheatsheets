@@ -26,6 +26,9 @@ This repository contains practical cheatsheets covering essential tools for engi
 - **[SQL](sql-cheatsheet.md)** - Essential guide to SQL queries, commands, and database operations
 - **[Postman](postman-cheatsheet.md)** - Essential guide to API testing and development with Postman
 
+### Performance & Systems
+- **[System Latency](latency-cheatsheet.md)** - Industry-standard latency numbers for performance optimization
+
 ### Cloud Platforms
 - **[Azure CLI](azure-cli-cheatsheet.md)** - Essential Azure CLI commands for Azure management
 - **[Azure PowerShell](azure-powershell-cheatsheet.md)** - Essential Azure PowerShell cmdlets for Azure management
