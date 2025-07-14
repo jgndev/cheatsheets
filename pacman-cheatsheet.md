@@ -1,9 +1,9 @@
 ---
 id: 19
 date: 2025-07-14T00:00:00Z
-title: "Pacman Package Manager Cheatsheet"
-author: "Jeremy Novak"
-summary: "Cheatsheet for the Pacman Package Manager on Arch Linux"
+title: Pacman Package Manager Cheatsheet
+author: Jeremy Novak
+summary: Cheatsheet for the Pacman Package Manager on Arch Linux
 slug: pacman-cheatsheet
 tags:
   - pacman

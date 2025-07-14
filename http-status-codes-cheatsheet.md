@@ -1,9 +1,9 @@
 ---
 id: 20
 date: 2025-07-14T00:00:00Z
-title: "HTTP Status Codes Cheatsheet"
-author: "Jeremy Novak"
-summary: "Reference for HTTP status codes"
+title: HTTP Status Codes Cheatsheet
+author: Jeremy Novak
+summary: Reference for HTTP status codes
 slug: http-status-codes-cheatsheet
 tags:
   - http
