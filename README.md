@@ -15,6 +15,7 @@ This repository contains practical cheatsheets covering essential tools for engi
 ### System Administration
 - **[APT Package Manager](apt-cheatsheet.md)** - Essential guide to Ubuntu/Debian package management
 - **[Homebrew Package Manager](homebrew-cheatsheet.md)** - Essential guide to using Homebrew package management
+- **[Pacman Package Manager](pacman-cheatsheet.md)** - Essential guide to Arch Linux package management
 - **[Git & GitHub CLI](git-cheatsheet.md)** - Essential guide to Git, GitHub CLI, and troubleshooting
 - **[SSH](ssh-cheatsheet.md)** - Essential guide to SSH connections, keys, and file transfer
 - **[Ansible](ansible-cheatsheet.md)** - Essential guide to automation and configuration management
@@ -25,6 +26,7 @@ This repository contains practical cheatsheets covering essential tools for engi
 ### Development Tools
 - **[SQL](sql-cheatsheet.md)** - Essential guide to SQL queries, commands, and database operations
 - **[Postman](postman-cheatsheet.md)** - Essential guide to API testing and development with Postman
+- **[HTTP Status Codes](http-status-codes-cheatsheet.md)** - Complete reference for HTTP response status codes
 
 ### Performance & Systems
 - **[System Latency](latency-cheatsheet.md)** - Industry-standard latency numbers for performance optimization
